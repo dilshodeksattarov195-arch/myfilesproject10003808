@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggervarse",
+        "uuid": 5110336,
+        "checksum": "wu95vh"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
